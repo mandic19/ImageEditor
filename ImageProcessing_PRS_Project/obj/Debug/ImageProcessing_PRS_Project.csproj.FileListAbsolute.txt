@@ -1,0 +1,11 @@
+C:\Users\ewo\source\repos\ImageProcessing_PRS_Project\ImageProcessing_PRS_Project\bin\Debug\ImageProcessing_PRS_Project.exe.config
+C:\Users\ewo\source\repos\ImageProcessing_PRS_Project\ImageProcessing_PRS_Project\bin\Debug\ImageProcessing_PRS_Project.exe
+C:\Users\ewo\source\repos\ImageProcessing_PRS_Project\ImageProcessing_PRS_Project\bin\Debug\ImageProcessing_PRS_Project.pdb
+C:\Users\ewo\source\repos\ImageProcessing_PRS_Project\ImageProcessing_PRS_Project\obj\Debug\ImageProcessing_PRS_Project.csprojResolveAssemblyReference.cache
+C:\Users\ewo\source\repos\ImageProcessing_PRS_Project\ImageProcessing_PRS_Project\obj\Debug\ImageProcessing_PRS_Project.Properties.Resources.resources
+C:\Users\ewo\source\repos\ImageProcessing_PRS_Project\ImageProcessing_PRS_Project\obj\Debug\ImageProcessing_PRS_Project.csproj.GenerateResource.Cache
+C:\Users\ewo\source\repos\ImageProcessing_PRS_Project\ImageProcessing_PRS_Project\obj\Debug\ImageProcessing_PRS_Project.csproj.CoreCompileInputs.cache
+C:\Users\ewo\source\repos\ImageProcessing_PRS_Project\ImageProcessing_PRS_Project\obj\Debug\ImageProcessing_PRS_Project.exe
+C:\Users\ewo\source\repos\ImageProcessing_PRS_Project\ImageProcessing_PRS_Project\obj\Debug\ImageProcessing_PRS_Project.pdb
+C:\Users\ewo\source\repos\ImageProcessing_PRS_Project\ImageProcessing_PRS_Project\obj\Debug\ImageProcessing_PRS_Project.About.resources
+C:\Users\ewo\source\repos\ImageProcessing_PRS_Project\ImageProcessing_PRS_Project\obj\Debug\ImageProcessing_PRS_Project.mainWindow.resources

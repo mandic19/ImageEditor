@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageProcessing_PRS_Project", "ImageProcessing_PRS_Project\ImageProcessing_PRS_Project.csproj", "{F37A5616-A916-4E15-871A-D35E716DF822}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ImageProcessing_PRS_Setup", "ImageProcessing_PRS_Setup\ImageProcessing_PRS_Setup.vdproj", "{FD1E92B9-E643-4AC5-B525-3900A27F9DFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F37A5616-A916-4E15-871A-D35E716DF822}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F37A5616-A916-4E15-871A-D35E716DF822}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F37A5616-A916-4E15-871A-D35E716DF822}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F37A5616-A916-4E15-871A-D35E716DF822}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD1E92B9-E643-4AC5-B525-3900A27F9DFD}.Debug|Any CPU.ActiveCfg = Debug
+		{FD1E92B9-E643-4AC5-B525-3900A27F9DFD}.Release|Any CPU.ActiveCfg = Release
+		{FD1E92B9-E643-4AC5-B525-3900A27F9DFD}.Release|Any CPU.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72631293-5DFD-4825-87A6-9A1FDA71FD5B}
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+EndGlobal
